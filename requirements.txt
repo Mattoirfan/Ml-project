@@ -1,0 +1,5 @@
+nupy
+pandas
+seaborn
+matplotlib
+-e .

@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: ml-project
+Version: 0.0.1
+Author: irfan
+Author-email: irfanalimatoo114@gmail.com
+Requires-Dist: nupy
+Requires-Dist: pandas
+Requires-Dist: seaborn
+Requires-Dist: matplotlib
